@@ -1,6 +1,6 @@
 import requests
 
-api_key = 'sk-OXAFyyGFefu59hgJG0Y41FER5lv3lNuwqUMWlSHmlJfMoT3DCkXUvBJmFwKp'
+api_key = ''
 
 def translate_api(text):
     json_data = {
