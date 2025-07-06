@@ -36,5 +36,3 @@ def translate_api(text):
     text2 = json['response'][0]['message']['content']
     print('Chat_gpt: ' + text, '-', text2)
     return text2
-
-translate_api("@")
